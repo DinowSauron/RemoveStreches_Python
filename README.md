@@ -46,7 +46,7 @@ Suppose you use an api to go to wikipedia and search for the value "michael jack
 ```
 Notice, this return is not pleasant, because it has the birth date and some shortcuts in html that are irrelevant, in your case you can have other types of shortcuts, just follow this concept to remove them:
 
-#### How to appli in python:
+#### How to apply in python:
 ```
 # first, place the 'RemoveStreches' file in your python project file !!! to import
 from RemoveStreches import clearStrech
